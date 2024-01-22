@@ -22,7 +22,7 @@
 ***Nếu máy tính đã cài đặt git và Visual studio code:***
 
 - Bước 1: Click on vào button Code và Copy link HTTPS
-<img  src=.\img\githubPage.png >
+<img  src=.githubPage.png >
 - Bước 2: Tạo một folder chứa code chuẩn bị clone về trên máy của bạn.
 VD: This PC > Local Disk (D) > Start Github
 - Bước 3: Click on chuột phải vào tên folder vừa tạo và select `Git Bash Here` (Option này chỉ hiện khi bạn đã download Git về máy tính thành công)
