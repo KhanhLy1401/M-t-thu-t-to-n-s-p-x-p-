@@ -32,7 +32,7 @@ VD: This PC > Local Disk (D) > Start Github
 ***Nếu máy tính chưa có git***
 
 - Download file zip của của dự án về và giải nén trên máy tính bằng cách nhấn vào Download ZIP
-<img  src=.\img\zip.png >
+<img  src=zip.png >
 - Hướng dẫn cài và sử dụng git https://www.hostinger.vn/huong-dan/huong-dan-su-dung-git-lenh-git-co-ban
 
 ***Cách cài Visual Studio Code***
@@ -66,10 +66,10 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 
 
 ***Mô tả***
-- Màu (`#cbd5e1`) <img  src=.\img\white.png height="15"> mô tả các phần tử chưa được sắp xếp
-- Màu (`#ff0000`) <img  src=.\img\red.png height="15"> mô tả hai phần tử đang được xét để đảo vị trí
-- Màu (`#55a630`) <img  src=.\img\green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
-<img src=.\img\bubbleSort.png>
+- Màu (`#cbd5e1`) <img  src=white.png height="15"> mô tả các phần tử chưa được sắp xếp
+- Màu (`#ff0000`) <img  src=red.png height="15"> mô tả hai phần tử đang được xét để đảo vị trí
+- Màu (`#55a630`) <img  src=green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
+<img src=bubbleSort.png>
 
 <a name="insertion"></a>
 ### 2.Insertion Sort
@@ -93,11 +93,11 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 |Yes|
 
 ***Mô tả***
-- Màu (`#cbd5e1`) <img  src=.\img\white.png height="15"> mô tả các phần tử chưa được sắp xếp
-- Màu (`#ff0000`) <img  src=.\img\red.png height="15"> mô tả phần tử đang được xét để đảo vị trí
-- Màu (`#a47148`) <img  src=.\img\brown.png height="15"> mô tả phần tử được dùng để so sánh với phần tử đang xét nếu phần tử đó nhỏ hơn thì có màu nâu và phần tử được xét sẽ chèn vào phần tử màu nâu cuối cùng
-- Màu (`#55a630`) <img  src=.\img\green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
-<img src=.\img\insertionSort.png>
+- Màu (`#cbd5e1`) <img  src=white.png height="15"> mô tả các phần tử chưa được sắp xếp
+- Màu (`#ff0000`) <img  src=red.png height="15"> mô tả phần tử đang được xét để đảo vị trí
+- Màu (`#a47148`) <img  src=brown.png height="15"> mô tả phần tử được dùng để so sánh với phần tử đang xét nếu phần tử đó nhỏ hơn thì có màu nâu và phần tử được xét sẽ chèn vào phần tử màu nâu cuối cùng
+- Màu (`#55a630`) <img  src=green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
+<img src=insertionSort.png>
 
 <a name="selection"></a>
 ### 3. Selection Sort
@@ -121,10 +121,10 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 |No|
 
 ***Mô tả***
-- Màu (`#cbd5e1`) <img  src=.\img\white.png height="15"> mô tả các phần tử chưa được sắp xếp
-- Màu (`#ff0000`) <img  src=.\img\red.png height="15"> mô tả hai phần tử đang được xét để đảo vị trí
-- Màu (`#55a630`) <img  src=.\img\green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
-<img src=.\img\selectionSort.png>
+- Màu (`#cbd5e1`) <img  src=white.png height="15"> mô tả các phần tử chưa được sắp xếp
+- Màu (`#ff0000`) <img  src=red.png height="15"> mô tả hai phần tử đang được xét để đảo vị trí
+- Màu (`#55a630`) <img  src=green.png height="15"> là những phần tử đã được xét xong và không cần xét ở các bước tiếp theo
+<img src=selectionSort.png>
 
 <a name="quick"></a>
 ### 4. Quick Sort
@@ -139,13 +139,13 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 - Sử dụng biến i và biến j để chia dãy thành 2 phần. Biến i sẽ chạy từ l đến r và biến j sẽ chạy từ r về l. Nếu phát hiện `a[i] >= p` và `a[j] <= p` thì dừng lại và tráo đổi ví trí của chúng.
 
 ***Mô tả***
-- Màu (`#cbd5e1`) <img  src=.\img\white.png height="15"> mô tả các phần tử chưa được sắp xếp
-- Màu (`#ff0000`) <img  src=.\img\red.png height="15"> mô tả phần tử đang được chọn làm chốt
-- Màu (`#a47148`) <img  src=.\img\brown.png height="15"> mô tả phần tử được dùng để so sánh với phần tử đang xét nếu phần tử đó nhỏ hơn thì có màu (`#ffa500`) <img  src=.\img\yellow.png height="15"> 
--   Màu (`#52b69a`) <img  src=.\img\blue.png height="15"> mô tả phần tử chốt đã được di chuyển và không được chọn làm chốt nữa
-- Màu (`#55a630`) <img  src=.\img\green.png height="15"> là những phần tử đã được xét xong và xếp đúng vị trí 
+- Màu (`#cbd5e1`) <img  src=white.png height="15"> mô tả các phần tử chưa được sắp xếp
+- Màu (`#ff0000`) <img  src=red.png height="15"> mô tả phần tử đang được chọn làm chốt
+- Màu (`#a47148`) <img  src=brown.png height="15"> mô tả phần tử được dùng để so sánh với phần tử đang xét nếu phần tử đó nhỏ hơn thì có màu (`#ffa500`) <img  src=yellow.png height="15"> 
+-   Màu (`#52b69a`) <img  src=blue.png height="15"> mô tả phần tử chốt đã được di chuyển và không được chọn làm chốt nữa
+- Màu (`#55a630`) <img  src=green.png height="15"> là những phần tử đã được xét xong và xếp đúng vị trí 
 
-<img src=.\img\quickSort.png>
+<img src=quickSort.png>
 
 <a name="merge"></a>
 ### 5. Merge Sort
@@ -167,12 +167,12 @@ Sắp xếp là quá trình bố trí lại các phần tử trong một tập h
 |Yes|
 
 ***Mô tả***
-- Màu (`#cbd5e1`) <img  src=.\img\white.png height="15"> mô tả các phần tử chưa được sắp xếp
-- Trong mảng đang được chọn để sắp xếp: Màu (`#ffa500`) <img  src=.\img\yellow.png height="15"> mô tả các phần tử thuộc bên trái và Màu (`#ff0000`) <img  src=.\img\red.png height="15"> mô tả phần tử  thuộc bên phải để so sánh và sắp xếp
-- Màu (`#52b69a`) <img  src=.\img\blue.png height="15"> mô tả phần tử đã được sắp xếp tạm thời
-- Màu (`#55a630`) <img  src=.\img\green.png height="15"> là những phần tử đã được xét xong và xếp đúng vị trí 
+- Màu (`#cbd5e1`) <img  src=white.png height="15"> mô tả các phần tử chưa được sắp xếp
+- Trong mảng đang được chọn để sắp xếp: Màu (`#ffa500`) <img  src=yellow.png height="15"> mô tả các phần tử thuộc bên trái và Màu (`#ff0000`) <img  src=red.png height="15"> mô tả phần tử  thuộc bên phải để so sánh và sắp xếp
+- Màu (`#52b69a`) <img  src=blue.png height="15"> mô tả phần tử đã được sắp xếp tạm thời
+- Màu (`#55a630`) <img  src=green.png height="15"> là những phần tử đã được xét xong và xếp đúng vị trí 
 
-<img src=.\img\mergeSort.png>
+<img src=mergeSort.png>
 
 
 
